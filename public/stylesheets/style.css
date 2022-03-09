@@ -1,6 +1,13 @@
 body {
   padding: 50px;
-  font: 14px "Lucida Grande", Helvetica, Arial, sans-serif;
+  font: 2.1em "Lucida Grande", Helvetica, Arial, sans-serif;
+  color: beige;
+  text-align: center;
+  background-color: rgba(0, 0, 0, .6);
+  background-image: url("https://picsum.photos/500?random=3");
+  background-blend-mode: multiply;
+  background-size: cover;
+  overflow: hidden;
 }
 
 a {
